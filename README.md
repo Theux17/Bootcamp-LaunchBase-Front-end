@@ -23,9 +23,9 @@ Projeto feito durante o módulo 02 do **Bootcamp-LaunchBase** da **Rocketseat**,
 ```bash
  
 # Clonar o repositório
- $ git clone https://github.com/Theux17/Bootcamp-LaunchBase.git
+ $ git clone https://github.com/Theux17/Bootcamp-LaunchBase-Front-end.git
 
 # Entrar no repositório
-$ cd Bootcamp-Launchbase
+$ cd Bootcamp-Launchbase-Front-end
 
 ```
