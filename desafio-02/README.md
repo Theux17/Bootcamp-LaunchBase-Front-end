@@ -26,7 +26,7 @@ Projeto feito para aplicar os conceitos aprendidos no módulo 02 do **Bootcamp-L
 # Clonar o repositório
  $ git clone https://github.com/Theux17/Bootcamp-LaunchBase-Front-end.git
 
-# Entrar no repositório
+# Entrar no diretório
  $ cd Bootcamp-Launchbase
 
 ```
