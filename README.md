@@ -6,7 +6,7 @@
 ---
 
 ## Sobre
-Projeto feito durante o módulo 02 do **Bootcamp-LaunchBase** da **Rocketseat**, para praticar todo conteúdo ensinadogi durante as aulas sobre front-end.
+Projeto feito durante o módulo 02 do **Bootcamp-LaunchBase** da **Rocketseat**, para praticar todo conteúdo ensinado durante as aulas sobre front-end.
 
 ---
 
